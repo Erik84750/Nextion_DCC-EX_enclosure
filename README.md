@@ -20,6 +20,7 @@ Files for 3D printing of DCC-EX_Nextion-controller enclosures
   e. openings for a rotary encoder and for 2 LED's (batteries charging and batteries charged).
 
 
+
 3. HARDWARE REQUIREMENTS:
 
   a. the master pcb can be manufactured from the provided Gerber files. Beware of the mounting hole dimensions and psotions when making your own PCB).
@@ -37,6 +38,7 @@ Files for 3D printing of DCC-EX_Nextion-controller enclosures
   
   f. for mounting the lid, PCB and battery charger these brass M3 heat-inserts: M3 OD 4.2mm length 3mm, and M3 OD 5mm length 5mm:
     https://tinyurl.com/fwtkpy7e
+
 
 
 4. 3D PRINTING REQUIREMENTS:
