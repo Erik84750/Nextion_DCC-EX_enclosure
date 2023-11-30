@@ -2,15 +2,20 @@
 Files for 3D printing of DCC-EX_Nextion-controller enclosures
 
 1. Introduction:
+
   This repository serves as a source for 3D printable enclosures for the Nextion DCC-EX project on this location: https://github.com/normhal?tab=repositories
   This repository contains the .stl files for 3.2", 3.5", 4.3" and 5" Nextion display enclosures
 
 2. Features:
+
   a. the enclosure contain the necessary mounting tabs for a master-PCB and a 2x 18650 Li-Ion battery/charger/UPS.
 
   b. the encmosure provides the proper mounting points for the applicable Nextion display
+
   c. hoes are provided for an ON/OFF switch and a jack 3-pole receptacle for wired tethering (RX, TX, GND)
+
   d. an opening for USB-C charging connection
+
   e. openings for a rotary encoder and for 2 LED's (batteries charging and batteries charged).
 
 4. Hardware requirements:
