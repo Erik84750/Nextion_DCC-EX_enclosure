@@ -20,7 +20,8 @@ Files for 3D printing of DCC-EX_Nextion-controller enclosures
 
 4. Hardware requirements:
 
-  a. the master pcb can be manufactured from the provided Gerber files. Beware of the mounting hole dimensions and psotions when making your own PCB)
+  a. the master pcb can be manufactured from the provided Gerber files. Beware of the mounting hole dimensions and psotions when making your own PCB).
+  See https://github.com/Erik84750/Nextion_DCC-EX_master-pcb
   
   b. the battery holder and charging circuitry are contained on one PCB with specific mounting holes. Use this reference as a source: https://tinyurl.com/5b3ys9ak
     Make sure a 5V DC output version is used.
