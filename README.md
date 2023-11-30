@@ -2,12 +2,10 @@
 Files for 3D printing of DCC-EX_Nextion-controller enclosures
 
 1. Introduction:
-2. 
   This repository serves as a source for 3D printable enclosures for the Nextion DCC-EX project on this location: https://github.com/normhal?tab=repositories
   This repository contains the .stl files for 3.2", 3.5", 4.3" and 5" Nextion display enclosures
 
-3. Features:
-4. 
+2. Features:
   a. the enclosure contain the necessary mounting tabs for a master-PCB and a 2x 18650 Li-Ion battery/charger/UPS.
 
   b. the encmosure provides the proper mounting points for the applicable Nextion display
@@ -15,8 +13,7 @@ Files for 3D printing of DCC-EX_Nextion-controller enclosures
   d. an opening for USB-C charging connection
   e. openings for a rotary encoder and for 2 LED's (batteries charging and batteries charged).
 
-6. Hardware requirements:
-7. 
+4. Hardware requirements:
   a. the master pcb can be manufactured from the provided Gerber files. Beware of the mounting hole dimensions and psotions when making your own PCB)
   b. the battery holder and charging circuitry are contained on one PCB with specific mounting holes. Use this reference as a source: https://tinyurl.com/5b3ys9ak
     Make sure a 5V DC output version is used.
@@ -26,8 +23,7 @@ Files for 3D printing of DCC-EX_Nextion-controller enclosures
   f. for mounting the lid, PCB and battery charger these brass M3 heat-inserts: M3 OD 4.2mm length 3mm, and M3 OD 5mm length 5mm:
     https://tinyurl.com/fwtkpy7e
 
-8. 3D printing requirements:
-9. 
+5. 3D printing requirements:
   a. A minimal printing bed surface of 260x240mm is necessary (ie Anycubic Vyper)
   b. it is recommended to use a bimetal titanium throat: https://tinyurl.com/mrxmm24h
   c. only use high quality PLA filament: due to the complexity of the model (overhangs, holes, ..). For example: Prussa, Spectrum, ..
