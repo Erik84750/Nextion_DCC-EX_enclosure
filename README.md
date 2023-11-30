@@ -37,9 +37,12 @@ Files for 3D printing of DCC-EX_Nextion-controller enclosures
 5. 3D printing requirements:
 
   a. A minimal printing bed surface of 260x240mm is necessary (ie Anycubic Vyper)
+  
   b. it is recommended to use a bimetal titanium throat: https://tinyurl.com/mrxmm24h
+  
   c. only use high quality PLA filament: due to the complexity of the model (overhangs, holes, ..). For example: Prussa, Spectrum, ..
     Suboptimal results were obtained with Fiberlogy, eSun, and of course house brands or knock-offs which are off-limits.
+    
   d. Some basic printer settings: Retraction = 9mm, Printing speed = 65mm/sec, no support structure, filling thickness 60% (2mm line distance),
     Filling pattern: cubic, Layer height 0.1mm, Wall thickness 0.8mm, Number of wall lines: 2, Print temp (Spectrum): 205°C, Bed temp: 60°C
 
