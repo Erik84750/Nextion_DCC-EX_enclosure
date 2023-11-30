@@ -24,7 +24,7 @@ Files for 3D printing of DCC-EX_Nextion-controller enclosures
   See https://github.com/Erik84750/Nextion_DCC-EX_master-pcb
   
   b. the battery holder and charging circuitry are contained on one PCB with specific mounting holes. Use this reference as a source: https://tinyurl.com/5b3ys9ak
-    Make sure a 5V DC output version is used.
+    Make sure a 5V DC output version is used. See picture below for modification instructions for this charger/UPS module.
     
   c. the rotary encoder needs to be  the basic version (no pcb attached) due to space constraints
   
@@ -46,6 +46,10 @@ Files for 3D printing of DCC-EX_Nextion-controller enclosures
     
   d. Some basic printer settings: Retraction = 9mm, Printing speed = 65mm/sec, no support structure, filling thickness 60% (2mm line distance),
     Filling pattern: cubic, Layer height 0.1mm, Wall thickness 0.8mm, Number of wall lines: 2, Print temp (Spectrum): 205°C, Bed temp: 60°C
+
+![battery_charger_18560_UPS](https://github.com/Erik84750/Nextion_DCC-EX_enclosure/assets/20128852/30bb41c3-2cc0-40ef-bc59-00ba92e76630)
+
+    
 
 
      
