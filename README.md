@@ -10,7 +10,7 @@ Files for 3D printing of DCC-EX_Nextion-controller enclosures
 
   a. the enclosure contain the necessary mounting tabs for a master-PCB and a 2x 18650 Li-Ion battery/charger/UPS.
 
-  b. the encmosure provides the proper mounting points for the applicable Nextion display
+  b. the enclosure provides the proper mounting points for the applicable Nextion display
 
   c. hoes are provided for an ON/OFF switch and a jack 3-pole receptacle for wired tethering (RX, TX, GND)
 
