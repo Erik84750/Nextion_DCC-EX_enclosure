@@ -28,7 +28,9 @@ Files for 3D printing of DCC-EX_Nextion-controller enclosures
   
   b. the battery holder and charging circuitry are contained on one PCB with specific mounting holes. Use this reference as a source: https://tinyurl.com/5b3ys9ak
     Make sure a 5V DC output version is used. See picture below for modification instructions for this charger/UPS module.
-    Part 1: desolder the 2 SMD LED's and replace with wiring to the two 3mm LED's on the front panel; wiring is "common positive". Part 2: cut this LED.
+    Part 1: desolder the 2 SMD LED's and replace with wiring to the two 3mm LED's on the front panel; wiring is "common positive".
+This means that the LED anodes both are connected together to the positive pad, and that the LED cathodes are sperarately connected each to their respective negative pad.
+Part 2: cut this LED.
     
   c. the rotary encoder needs to be  the basic version (no pcb attached) due to space constraints
   
