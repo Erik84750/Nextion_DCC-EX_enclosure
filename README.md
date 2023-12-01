@@ -36,7 +36,7 @@ Files for 3D printing of DCC-EX_Nextion-controller enclosures
   
   e. the external tethering jack 3.5mm receptacle needs to be this version as a reference: https://tinyurl.com/3r4jh7u7
   
-  f. for mounting the lid, PCB and battery charger these brass M3 heat-inserts: M3 OD 4.2mm length 3mm, and M3 OD 5mm length 5mm:
+  f. for mounting the lid, Nextion display, PCB and battery charger these brass M3 heat-inserts: M3 OD 4.2mm length 3mm, and M3 OD 5mm length 5mm:
     https://tinyurl.com/fwtkpy7e
 
 
