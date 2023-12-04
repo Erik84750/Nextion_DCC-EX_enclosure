@@ -58,7 +58,6 @@ Files for 3D printing of DCC-EX_Nextion-controller enclosures
   e. Some very good guides on Anycubic Vyper settings: https://tinyurl.com/2z6cprxj and https://tinyurl.com/yr662upk
 
 
-    e. Some very good guides on Anycubic Vyper settings: https://tinyurl.com/2z6cprxj and https://tinyurl.com/yr662upk
 
 ![battery_charger_18560_UPS](https://github.com/Erik84750/Nextion_DCC-EX_enclosure/assets/20128852/30bb41c3-2cc0-40ef-bc59-00ba92e76630)
 
