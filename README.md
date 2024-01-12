@@ -35,7 +35,7 @@ Files for 3D printing of DCC-EX_Nextion-controller enclosures
   c. the rotary encoder needs to be  the basic version (no pcb attached) due to space constraints:
   
   ![rotary encoder wiring](https://github.com/Erik84750/Nextion_DCC-EX_enclosure/assets/20128852/b71eeac2-33ba-4ad2-aea9-3c3f7c741231)
-  Wiring should preferably include a 10k resistor for OutA, OutB and Switch and connected to +5V or +3V
+  Wiring should preferably include a 10k pull-up resistor for OutA, OutB and Switch (D) and connected to +5V or +3V
 
   ![Rotary Encoder top view - basic wiring](https://github.com/Erik84750/Nextion_DCC-EX_enclosure/assets/20128852/7874d2f4-88f7-4a9a-8dbd-0af8db7db52f)
 
