@@ -88,7 +88,9 @@ Either Wemos with ESP8266 with 18650 Li-Ion battery module or Wemos with ESP32 w
 
   a. see picture below. Remove the 1-pole ON/OFF/ON switch and replace by enclosure mounted single pole double throw switch
 
-  b. modify the pcb per picture: 1. remove switch and 2. remove both SMD LED's and wire 2x 3mm LED's for casing mounting; common negative to both LED's cathode, each LED anode to the appropriate LED anoce
+  b. modify the pcb per picture: 1. remove switch and 2. remove both SMD LED's and wire 2x 3mm LED's for casing mounting; common negative to both LED's cathode, each LED anode to the appropriate LED anode
+
+  c. Both the ESP8266 and ESP32 have a very similar component layout.
 
 
   ![Wemos_mod_v1](https://github.com/Erik84750/Nextion_DCC-EX_enclosure/assets/20128852/a791d705-c229-462b-bc14-ae133f5f525e)
