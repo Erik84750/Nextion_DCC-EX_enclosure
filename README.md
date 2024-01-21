@@ -93,7 +93,7 @@ Wemos_ESP32 connectiuons: self-explanatory on the PCB silkscreen. Rot. Enc. "Swi
 
   a. see picture below. Remove the 1-pole ON/OFF/ON switch and replace by enclosure mounted single pole double throw switch (BEWARE: all 3 solderpoints need to be connected to the switch)
 
-  b. modify the pcb per picture: 1. remove switch and 2. remove both SMD LED's and wire 2x 3mm LED's for casing mounting; common negative to both LED's cathode, each LED anode to the appropriate LED anode
+  b. modify the pcb per picture: 1. remove switch and 2. remove both SMD LED's and wire 2x 3mm LED's for casing mounting; common negative to both LED's cathode, each LED "+" solderpoint to the appropriate LED anode
 
   c. Both the ESP8266 and ESP32 have a very similar component layout.
 
