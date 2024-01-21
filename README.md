@@ -5,7 +5,9 @@ Files for 3D printing of DCC-EX_Nextion-controller enclosures
 
   This repository serves as a source for 3D printable enclosures for the Nextion DCC-EX project on this location: https://github.com/normhal?tab=repositories
   This repository contains the .stl files for 
+  
   A. 3.2", 3.5", 4.3" and 5" Nextion display enclosures for custom-made pcb + charger/UPS unit with 2x 18650 Li-Ion batteries
+  
   B. 3.2", 3.5" and 4.3" Nextion display enclosures for Wemos_ESP8266_18650 Li-Ion battery unit or Wemos_ESP32_18650 battery unit modules
 
 
