@@ -11,7 +11,7 @@ Files for 3D printing of DCC-EX_Nextion-controller enclosures
   B. 3.2", 3.5" and 4.3" Nextion display enclosures for Wemos_ESP8266_18650 Li-Ion battery unit or Wemos_ESP32_18650 battery unit modules
 
 
-2. FEATURES:
+2. FEATURES for version A
 
   a. the enclosure contain the necessary mounting tabs for a master-PCB and a 2x 18650 Li-Ion battery/charger/UPS.
 
@@ -25,7 +25,7 @@ Files for 3D printing of DCC-EX_Nextion-controller enclosures
 
 
 
-3. HARDWARE REQUIREMENTS:
+3. HARDWARE REQUIREMENTS for version A:
 
   a. the master pcb can be manufactured from the provided Gerber files. Beware of the mounting hole dimensions and psotions when making your own PCB).
   See https://github.com/Erik84750/Nextion_DCC-EX_master-pcb
@@ -72,7 +72,18 @@ Files for 3D printing of DCC-EX_Nextion-controller enclosures
 
 ![battery_charger_18560_UPS](https://github.com/Erik84750/Nextion_DCC-EX_enclosure/assets/20128852/30bb41c3-2cc0-40ef-bc59-00ba92e76630)
 
-    
+
+5 Nardware requirements for version B:
+
+Either Wemos with ESP8266 with 18650 Li-Ion battery module or Wemos with ESP32 with 18650 Li-Ion battery ubit
+
+6. Hardware modifications on the module for version B:
+
+a. see picture below. Remove the 1-pole ON/OFF/ON switch and replace by enclosure mounted single pole double throw switch
+
+b. modify the pcb per picture: 1. remove switch and 2. remove both SMD LED's and wire 2x 3mm LED's for casing mounting; common negative to both LED's cathode, each LED anode to the appropriate LED anoce
+
+
 
 
      
