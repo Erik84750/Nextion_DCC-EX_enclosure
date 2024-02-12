@@ -102,5 +102,5 @@ Wemos_ESP32 connectiuons: self-explanatory on the PCB silkscreen. Rot. Enc. "Swi
 ![Wemos_mod_v1](https://github.com/Erik84750/Nextion_DCC-EX_enclosure/assets/20128852/9fa37202-cf63-4627-877d-13471f64242b)
 
 
+![IMG_20240212_102925](https://github.com/Erik84750/Nextion_DCC-EX_enclosure/assets/20128852/eb850c10-4ebc-4173-909d-61f7638bcddb)
 
-     
