@@ -13,6 +13,7 @@ Files for 3D printing of DCC-EX_Nextion-controller enclosures
   C. 3.5" and 4.3" Nextion display enclosures for Raspberry Pico are coming soon
 
 
+
 2. FEATURES for version A
 
   a. the enclosure contain the necessary mounting tabs for a master-PCB and a 2x 18650 Li-Ion battery/charger/UPS.
@@ -24,6 +25,7 @@ Files for 3D printing of DCC-EX_Nextion-controller enclosures
   d. an opening for USB-C charging connection
 
   e. openings for a rotary encoder and for 2 LED's (batteries charging and batteries charged).
+
 
 
 
