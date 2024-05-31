@@ -43,6 +43,7 @@ Files for 3D printing of DCC-EX_Nextion-controller enclosures
   c. the rotary encoder needs to be  the basic version (no pcb attached) due to space constraints:
   
   ![rotary encoder wiring](https://github.com/Erik84750/Nextion_DCC-EX_enclosure/assets/20128852/b71eeac2-33ba-4ad2-aea9-3c3f7c741231)
+  
   Wiring should preferably include a 10k pull-up resistor for OutA, OutB and Switch (D) and connected to +5V or +3V
 
   ![Rotary Encoder top view - basic wiring](https://github.com/Erik84750/Nextion_DCC-EX_enclosure/assets/20128852/7874d2f4-88f7-4a9a-8dbd-0af8db7db52f)
@@ -111,4 +112,4 @@ Wemos_ESP32 connectiuons: self-explanatory on the PCB silkscreen. Rot. Enc. "Swi
 Below: Wemos/ESP23/18650-battery; the mod required to get 5V available for the Nextion display, as well as "charging" and "charged" 3mm LED's on the enclosure, connections:
 
 
-![Nextion_Wemos_ESP32_battery-18650_v3](https://github.com/Erik84750/Nextion_DCC-EX_enclosure/assets/20128852/9031eb7b-60b6-4c39-a168-2709761051dd)
+![Nextion_Wemos_ESP32_battery-18650_v3](https://github.com/Erik84750/Nextion_DCC-EX_enclosure/assets/20128852/b0f8d7ac-6ab0-4bcf-8c45-2d7beaa83414)
