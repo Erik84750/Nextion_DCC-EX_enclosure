@@ -108,8 +108,7 @@ Wemos_ESP32 connectiuons: self-explanatory on the PCB silkscreen. Rot. Enc. "Swi
 
 ![IMG_20240212_102925](https://github.com/Erik84750/Nextion_DCC-EX_enclosure/assets/20128852/eb850c10-4ebc-4173-909d-61f7638bcddb)
 
-Below: Wemos/ESP23/18650 battery; the mod required to get 5V available for the Nextion display:
-
-![IMG_20240528_115914](https://github.com/Erik84750/Nextion_DCC-EX_enclosure/assets/20128852/0c45b1a1-16b9-4e3f-9c12-646800afc7cd)
+Below: Wemos/ESP23/18650-battery; the mod required to get 5V available for the Nextion display, as well as "charging" and "charged" 3mm LED's on the enclosure, connections:
 
 
+![Nextion_Wemos_ESP32_battery-18650_v3](https://github.com/Erik84750/Nextion_DCC-EX_enclosure/assets/20128852/9031eb7b-60b6-4c39-a168-2709761051dd)
