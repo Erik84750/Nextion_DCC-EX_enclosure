@@ -8,7 +8,7 @@ Files for 3D printing of DCC-EX_Nextion-controller enclosures
   
   A. 3.2", 3.5", 4.3" and 5" Nextion display enclosures for custom-made pcb + charger/UPS unit with 2x 18650 Li-Ion batteries
   
-  B. 3.2", 3.5" and 4.3" Nextion display enclosures for Wemos_ESP8266_18650 Li-Ion battery unit or Wemos_ESP32_18650 battery unit modules
+  B. 3.2", 3.5" and 4.3" Nextion display enclosures for Wemos_ESP8266_18650 Li-Ion single battery unit or Wemos_ESP32_18650 single battery unit modules
 
   C. 3.5" and 4.3" Nextion display enclosures for Raspberry Pico are coming soon
   
@@ -49,15 +49,16 @@ Files for 3D printing of DCC-EX_Nextion-controller enclosures
   ![Rotary Encoder top view - basic wiring](https://github.com/Erik84750/Nextion_DCC-EX_enclosure/assets/20128852/7874d2f4-88f7-4a9a-8dbd-0af8db7db52f)
 
   
-  d. the 2 front LED's are 3mm
+  d. the 2 front LED's are 3mm. See drawing right below for instructions on cutting/removing/resoldering 3mm LED's on casing front
 
   
   e. the external tethering jack 3.5mm receptacle needs to be this version as a reference: https://tinyurl.com/3r4jh7u7
   
+  
   f. for mounting the lid, Nextion display, PCB and battery charger these brass M3 heat-inserts: M3 OD 4.2mm length 3mm, and M3 OD 5mm length 5mm:
     https://tinyurl.com/fwtkpy7e
 
-
+![battery_charger_18560_UPS](https://github.com/Erik84750/Nextion_DCC-EX_enclosure/assets/20128852/30bb41c3-2cc0-40ef-bc59-00ba92e76630)
 
 4. 3D PRINTING REQUIREMENTS:
 
@@ -75,7 +76,7 @@ Files for 3D printing of DCC-EX_Nextion-controller enclosures
 
 
 
-![battery_charger_18560_UPS](https://github.com/Erik84750/Nextion_DCC-EX_enclosure/assets/20128852/30bb41c3-2cc0-40ef-bc59-00ba92e76630)
+
 
 
 5. Hardware requirements for version B:
