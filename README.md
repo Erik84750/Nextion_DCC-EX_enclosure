@@ -68,7 +68,7 @@ Files for 3D printing of DCC-EX_Nextion-controller enclosures
   
   c. only use high quality PLA filament: due to the complexity of the model (overhangs, holes, ..). For example: Spectrum, to a lesser extent eSun..
      Prussa filament is very good but expensive.
-    Suboptimal results were obtained with Fiberlogy, and of course house brands or knock-offs which are off-limits. Not recommended: Prussa, Azurefilm, Polymaker, Formfutura,..
+    Suboptimal results were obtained with Fiberlogy, and of course house brands or knock-offs which are off-limits. Not recommended: Azurefilm, Polymaker, Formfutura,..
     
   d. Some basic printer settings: Retraction = 9mm, Printing speed = 65mm/sec, no support structure, filling thickness 60% (2mm line distance),
     Filling pattern: cubic, Layer height 0.1mm, Wall thickness 0.8mm, Number of wall lines: 2, Print temp (Spectrum): 205°C, Bed temp: 60°C
