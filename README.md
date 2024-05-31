@@ -80,11 +80,11 @@ Files for 3D printing of DCC-EX_Nextion-controller enclosures
 
 5. Hardware requirements for version B:
 
-Either Wemos with ESP8266 with 18650 Li-Ion battery module or Wemos with ESP32 with 18650 Li-Ion battery unit.
+Either Wemos with ESP8266 with 18650 Li-Ion battery module or Wemos with ESP32 with 18650 Li-Ion battery unit, built-in.
 
 Wemos_ESP8266 connections: rotary encoder: "Switch" to D1, "Clock" to D7, "Data" to D6. Others: Nextion TX to D2, RX to D5. Hardware RX and TX: as noted on the PCB.
 
-Wemos_ESP32 connectiuons: self-explanatory on the PCB silkscreen. Rot. Enc. "Switch" to GPIO13, "Clk" to GPIO5, "Dat" to GPIO4. Nextion RX to GPIO3, TX GPIO17.
+Wemos_ESP32 connections: self-explanatory on the PCB silkscreen. Rot. Enc. "Switch" to GPIO13, "Clk" to GPIO5, "Dat" to GPIO4. Nextion RX to GPIO3, TX GPIO17.
 
 
 
