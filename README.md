@@ -49,7 +49,7 @@ Files for 3D printing of DCC-EX_Nextion-controller enclosures
   ![Rotary Encoder top view - basic wiring](https://github.com/Erik84750/Nextion_DCC-EX_enclosure/assets/20128852/7874d2f4-88f7-4a9a-8dbd-0af8db7db52f)
 
   
-  d. the 2 front LED's are 3mm. See drawing right below for instructions on cutting/removing/resoldering 3mm LED's on casing front
+  d. the 2 front LED's are 3mm. See drawing right below for instructions on cutting/removing/resoldering 3mm LED's on casing front. "1" shows LED's to be removed from PCB. "2" shows LED to be cut to minimize idle current flow.
 
   
   e. the external tethering jack 3.5mm receptacle needs to be this version as a reference: https://tinyurl.com/3r4jh7u7
