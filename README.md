@@ -50,6 +50,7 @@ Files for 3D printing of DCC-EX_Nextion-controller enclosures
 
   
   d. the 2 front LED's are 3mm. See drawing right below for instructions on cutting/removing/resoldering 3mm LED's on casing front. "1" shows LED's to be removed from PCB. "2" shows LED to be cut to minimize idle current flow.
+  The LED's power is common anode; the LED cathodes need a 1 to 10k 1/8W resistor befor connection to their respective negative supply poles.
 
   
   e. the external tethering jack 3.5mm receptacle needs to be this version as a reference: https://tinyurl.com/3r4jh7u7
