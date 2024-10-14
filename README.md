@@ -10,8 +10,7 @@ Files for 3D printing of DCC-EX_Nextion-controller enclosures
   
   B. 3.2", 3.5" and 4.3" Nextion display enclosures for Wemos_ESP8266_18650 Li-Ion single battery unit or Wemos_ESP32_18650 single battery unit modules
 
-  C. 3.2", 3.5" and 4.3" Nextion display enclosures for Raspberry Pico are coming soon
-  
+  C. 3.2", 3.5" and 4.3" Nextion display enclosures for Raspberry Pico
         
 
 2. FEATURES for version A
