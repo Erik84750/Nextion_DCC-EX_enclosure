@@ -98,7 +98,7 @@ Wemos_ESP32 connections: self-explanatory on the PCB silkscreen. Rot. Enc. "Swit
 
 6. Hardware modifications on the module for version B:
 
-  a. see picture below. (see "1") Remove the 1-pole ON/OFF/ON switch and replace by enclosure mounted single pole ON-OFF switch (BEWARE: only the left and center solderpads need to be connected to the switch)
+  a. see picture below. (see "1") Remove the 1-pole ON/OFF switch and replace by enclosure mounted single pole ON-OFF switch. BEWARE: only the left and center solderpads need to be connected to the switch!
 
   b. modify the pcb per picture: 1. (see "1") remove switch and 2. (see "2") remove both SMD LED's (with red rectangle) and wire 2x 3mm LED's for casing mounting; common positive to both LED's anodes, each LED "-" solder pad to the appropriate LED cathode
 
