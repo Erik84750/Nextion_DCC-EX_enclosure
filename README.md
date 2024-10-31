@@ -96,11 +96,11 @@ Wemos_ESP32 connections: self-explanatory on the PCB silkscreen. Rot. Enc. "Swit
 ![Wemos_ESP32](https://github.com/Erik84750/Nextion_DCC-EX_enclosure/assets/20128852/cd38bd68-2209-46b7-a078-d1826cf59e98)
 
 
-6. Hardware modifications on the module for version B:
+6. Hardware modifications on the Wemos module for version B:
 
-  a. see picture below. (see "1") Remove the 1-pole ON/OFF switch and replace by enclosure mounted single pole ON-OFF switch. BEWARE: only the left and center solderpads need to be connected to the switch!
+  a. (see picture below: marked in red "1") Remove the 1-pole ON/OFF switch and replace with an enclosure mounted single pole ON-OFF switch. Wiring: only the left solderpad (marked ON) and center solderpads to be connected to the switch!
 
-  b. modify the pcb per picture: 1. (see "1") remove switch and 2. (see "2") remove both SMD LED's (with red rectangle) and wire 2x 3mm LED's for casing mounting; common positive to both LED's anodes, each LED "-" solder pad to the appropriate LED cathode
+  b. (see picture below: marked in red "2") Remove both SMD LED's (with red rectangle) and wire 2x 3mm LED's for enclosure top lid mounting; common positive to both LED's anodes, each LED "-" solder pad to the appropriate LED cathode
 
   c. Both the ESP8266 and ESP32 have a very similar component layout.
 
